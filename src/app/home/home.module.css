@@ -1,0 +1,13 @@
+.fullPage{
+    min-height: 100vh;
+    margin:0;
+    background-color:rgb(229, 255, 0)
+    
+}
+.heading{
+    background-color:rgb(229, 255, 0);
+    text-align: center;
+    padding:70px;
+    font-weight: bold;
+    font-size:xx-large;
+}
